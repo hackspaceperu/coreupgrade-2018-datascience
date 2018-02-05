@@ -37,9 +37,9 @@ De acuerdo a tu nivel, puedes tomar las clases, guiándote de la sumilla en la p
 
 ## Semana 2
 
-* Data Science Hands-on with Open Source Tools
-* Data Science Methodology
-* Python for Data Science
+* [Data Science Hands-on with Open Source Tools](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2/)
+* [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2/)
+* [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science/)
 
 ## Semana 3
 
