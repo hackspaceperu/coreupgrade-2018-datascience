@@ -62,3 +62,4 @@ PD: No es necesario seguir todo desde el principio, primero guíense del árbol 
 ## Developed by
 
 * JuanJose Tenorio, DataScience Trainer @HackSpacePeru
+* Robert Aduviri, DataScience Trainer @HackSpacePeru
