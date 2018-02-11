@@ -43,8 +43,8 @@ De acuerdo a tu nivel, puedes tomar las clases, guiándote de la sumilla en la p
 
 ## Semana 3
 
-* Data Analysis with Python
-* Getting Started with Kaggle - Dataquest
+* [Data Analysis with Python](https://cognitiveclass.ai/courses/data-analysis-python/)
+* [Getting Started with Kaggle - Dataquest](https://www.dataquest.io/m/185/getting-started-with-kaggle)
 
 ## Semana 4
 
