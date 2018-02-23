@@ -58,7 +58,17 @@ De acuerdo a tu nivel, puedes tomar las clases, guiándote de la sumilla en la p
 
 PD: No es necesario seguir todo desde el principio, primero guíense del árbol para conocer su nivel actual y desde ahí comenzar.
 
+## Reto
 
+El reto es registrarse en [ la siguiente competencia en Kaggle](https://www.kaggle.com/c/sf-crime) y obtener el mejor score posible.
+
+![Kaggle](https://i.imgur.com/5cG5sxW.png)
+
+## Entrega tu reto
+
+Finalmente solo debes enviar el link de tu repositorio con la solución de este reto mediante el formulario que está disponible cuando te logueas en el [CoreUpgrade](https://www.hackspace.la). Debes hacer click en la opción de Data Science.
+
+![Clic en Data Science](https://github.com/HackSpacePeru/coreupgrade-2018-datascience/blob/master/assets/datascience.JPG)
 ## Developed by
 
 * JuanJose Tenorio, DataScience Trainer @HackSpacePeru
